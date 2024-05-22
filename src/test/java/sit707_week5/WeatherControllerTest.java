@@ -13,13 +13,13 @@ public class WeatherControllerTest {
 
     @Test
     public void testStudentIdentity() {
-        String studentId = "123456"; // Provide your student ID
+        String studentId = "s223148345";  
         Assert.assertNotNull("Student ID is null", studentId);
     }
 
     @Test
     public void testStudentName() {
-        String studentName = "John Doe"; // Provide your name
+        String studentName = "Bharat Bhatt"; 
         Assert.assertNotNull("Student name is null", studentName);
     }
 
